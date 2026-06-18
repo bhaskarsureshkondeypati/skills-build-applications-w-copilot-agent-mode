@@ -1,0 +1,2 @@
+# Track mongo data with Git LFS
+octofit-tracker/mongo-data/** filter=lfs diff=lfs merge=lfs -text
